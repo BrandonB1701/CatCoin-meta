@@ -1,0 +1,10 @@
+{
+  "name": "CatCoin",
+  "symbol": "CatCoin",
+  "description": "The funniest feline in Solana's meme jungle.",
+  "image": "https://brandonb1701.github.io/CatCoin-meta/catcoin.png",
+  "extensions": {
+    "twitter": "catcoinofficial",
+    "website": "https://catcoin.cool"
+  }
+}
