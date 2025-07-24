@@ -1,21 +1,13 @@
 {
   "name": "CatCoin",
   "symbol": "CAT",
-  "description": "The feline overlord of Solana. $CAT is a community-driven meme coin built to scratch the charts and chase moon mice. No rugs. No traps. Just pure meme energy.",
-  "image": "https://raw.githubusercontent.com/BrandonB1701/CatCoin-meta/main/catcoin.png",
-  "properties": {
-    "category": "image",
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/BrandonB1701/CatCoin-meta/main/catcoin.png",
-        "type": "image/png"
-      }
-    ],
-    "creators": [
-      {
-        "address": "CjWQLgehdWmfXR4ifhybX7iX79xWMUjWYtBe1QMPRtVC",
-        "share": 100
-      }
-    ]
-  }
+  "uri": "https://raw.githubusercontent.com/BrandonB1701/CatCoin-meta/main/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "CjWQLgehdWmfXR4ifhybX7iX79xWMUjWYtBe1QMPRtVC",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
