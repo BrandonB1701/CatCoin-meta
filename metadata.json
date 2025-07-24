@@ -1,10 +1,21 @@
 {
   "name": "CatCoin",
-  "symbol": "CatCoin",
-  "description": "The funniest feline in Solana's meme jungle.",
-  "image": "https://brandonb1701.github.io/CatCoin-meta/catcoin.png",
-  "extensions": {
-    "twitter": "catcoinofficial",
-    "website": "https://catcoin.cool"
+  "symbol": "CAT",
+  "description": "The feline overlord of Solana. $CAT is a community-driven meme coin built to scratch the charts and chase moon mice. No rugs. No traps. Just pure meme energy.",
+  "image": "https://raw.githubusercontent.com/BrandonB1701/CatCoin-meta/main/catcoin.png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BrandonB1701/CatCoin-meta/main/catcoin.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "REPLACE_WITH_YOUR_MINTING_WALLET_ADDRESS",
+        "share": 100
+      }
+    ]
   }
 }
